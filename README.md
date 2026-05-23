@@ -1,6 +1,6 @@
 # mojo
-- The Hero Vibe: "Mojo: Turn your overwhelming life goals into a pet-powered RPG."
-- The Simple Vibe: "Mojo: Slay executive dysfunction, one micro-task at a time."
-- The Action Vibe: "Mojo: Beat life’s biggest goals with a bite-sized pet RPG."
-- The 4-Word Vibe: "Mojo: Gamify your executive dysfunction."
+- Mojo: Outsmart the overwhelm.
+- Mojo: Move the mountain, one inch at a time.
+- Mojo: Stop stalling. Start leveling up.
+- Mojo: Conquer the chaos.
 
